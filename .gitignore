@@ -52,3 +52,6 @@ Thumbs.db
 *.pdf
 .vscode/
 env/
+
+docker-compose.yml
+assets/*
